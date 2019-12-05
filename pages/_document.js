@@ -6,7 +6,7 @@ class MyDocument extends Document {
       <html lang='en'>
         <Head>
           <meta name="description" content="A site for programming Portfolio" />
-          <meta charset='utf-8' />
+          <meta charSet='utf-8' />
           <meta name='robots' content='noindex, nofollow' />
           <meta name='viewport' content='width=device-width' />
           <link
