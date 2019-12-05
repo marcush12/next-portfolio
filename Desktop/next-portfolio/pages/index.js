@@ -1,10 +1,12 @@
-import React from 'react'
+import Link from 'next/link'
+import Layout from '../components/Layout'
 
 const Index = () => {
   return (
-    <h1>
-      Hello!
-    </h1>
+    <Layout title="Home">
+
+    <p>Bem-vindo a mais um curso!</p>
+    </Layout>
   )
 }
 
